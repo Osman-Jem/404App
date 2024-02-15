@@ -1,0 +1,7 @@
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\404App.exe
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\appsettings.json
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\404App.dll
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\404App.deps.json
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\404App.runtimeconfig.json
+C:\Users\oso\source\repos\404App\bin\Release\net8.0\publish\404App.pdb
